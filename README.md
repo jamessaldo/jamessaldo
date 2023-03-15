@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Ghozy! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Ghozy! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 Ghozy is a software engineer with a strong interest in building scalable and reliable systems. He is particularly interested in the intersection of software engineering and artificial intelligence and is always seeking new opportunities to learn and grow in these areas. He is also interested in mobile development, particularly iOS development.
