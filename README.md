@@ -11,8 +11,7 @@ Ghozy is a software engineer with a strong interest in building scalable and rel
 <br>
 
 - 👨‍💻 I’m currently working as a Back-end Engineer at <a href="https://gdplabs.id/" target="blank">GDP Labs - GLAIR</a>
-- 📖 Progressing to learn Swift & SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-- 📖 Progressing to learn Machine Learning <a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code" target="blank">100DaysOfMLCode</a>
+- 📖 Progressing to learn Swift & SwiftUI <a href="https://www.hackingwithswift.com/100" target="blank">100DaysOfSwift</a>
 - 💬 Curiousity in **Machine Learning & Software Engineering**
 - 📫 How to reach me **ghozyghlmlaff@gmail.com**
 - 📄 Know about my experiences <a href="https://github.com/jamessaldo/jamessaldo/blob/main/Ghozy_Ghulamul_Afif.pdf" target="blank">resume</a>
