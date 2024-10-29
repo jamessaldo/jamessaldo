@@ -4,9 +4,8 @@
   <strong>Software Engineer at <a href="https://gdplabs.id/" target="_blank">GDP Labs - GLAIR</a></strong>
 </p>
 
-<p align="center">
-  I'm a software engineer in training, still figuring out how to be "that" engineer everyone talks about. Always eager to dive into whatever the internet throws my way. Big fan of HTMX—because why complicate things with React when you can keep it simple and dynamic?
-</p>
+
+I'm a software engineer in training, still figuring out how to be "that" engineer everyone talks about. Always eager to dive into whatever the internet throws my way. Big fan of HTMX—because why complicate things with React when you can keep it simple and dynamic?
 
 ---
 
