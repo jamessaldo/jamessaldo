@@ -1,7 +1,7 @@
-<h1 align="center">Hi, Jay is here!</h1>
+<h1 align="center">Hi, Jay is here! 👋</h1>
 
 <p align="center">
-  <strong>Back-end Engineer at <a href="https://gdplabs.id/" target="_blank">GDP Labs - GLAIR</a></strong>
+  <strong>Software Engineer at <a href="https://gdplabs.id/" target="_blank">GDP Labs - GLAIR</a></strong>
 </p>
 
 <p align="center">
